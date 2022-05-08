@@ -2,8 +2,8 @@
 
 import './App.css';
 import { useState, useEffect} from 'react';
-import Form from './components/DisplayGiph/Form/Form';
-import DisplayGiph from './components/DisplayGiph/DisplayGiph';
+import Form from './components/DisplayGif/Form/Form';
+import DisplayGiph from './components/DisplayGif/DisplayGif';
 
 
 

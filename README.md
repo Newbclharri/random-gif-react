@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Component Hierarchy Diagram
+[Component Diagram](https://docs.google.com/drawings/d/193HxtIbpIdce5TP_XtM21ywUyIn0kwk0QZN0kU9wxh0/edit?usp=sharing)
+
 ## Available Scripts
 
 In the project directory, you can run:
